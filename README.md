@@ -15,4 +15,4 @@ Visualisation Primary School Walkability - A colour coded map showing the Walkab
 
 Visualisation Secondary School Walkability - A colour coded map showing the Walkability Scores of each secondary school catchment area in Glasgow. This map was created in ArcMap.
 
-Geographically Weighted Regression Model - A visual overview of areas where the Geographically Weighted Regression Model performs well. The model explores the relationship between school catchment size and Walkability Scores. The model performs well in city centre areas. 
+Geographically Weighted Regression Model - A visual overview of areas where the Geographically Weighted Regression Model performs well and poorly. The model explores the relationship between school catchment size and Walkability Scores. The model performs particularly well in city centre areas. 
